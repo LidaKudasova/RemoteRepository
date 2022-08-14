@@ -1,11 +1,11 @@
 # Инструкция по работе с системой контроля версий Git
 
-* *git init* - команда инициализирующая репозиторий в текущей директории;
+* *git init* - команда инициализирующая репозиторий в текущей директории [документация](https://git-scm.com/docs/git-init)
 
-* *git log* - показывает историю комитов
+* *git log* - показывает историю комитов [документация](https://git-scm.com/docs/git-log)
 
-* *git checkout \<commit hash>* -  перейти к сохраненной версии
+* *git checkout \<commit hash>* -  перейти к сохраненной версии [документация](https://git-scm.com/docs/git-checkout)
 
-* *git checkout master - возвращает к последней сохраненной версии* 
+* *git checkout master - возвращает к последней сохраненной версии* [документация](https://git-scm.com/docs/git-checkout) 
 
-* *git status - состаяние репозитория* 
+* *git status - состаяние репозитория* [документация](https://git-scm.com/docs/git-status) 
