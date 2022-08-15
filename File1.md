@@ -9,3 +9,5 @@
 * *git checkout master - возвращает к последней сохраненной версии* [документация](https://git-scm.com/docs/git-checkout) 
 
 * *git status - состаяние репозитория* [документация](https://git-scm.com/docs/git-status) 
+
+* *git add* - команда, добавляющая текщую версию файла к отслеживанию (готовит к коммиту);
